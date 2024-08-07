@@ -1,4 +1,3 @@
-// src/components/Header.tsx
 const Header = () => {
     return (
       <header className="bg-Verde w-full h-44 flex justify-center items-center">
